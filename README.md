@@ -1,6 +1,6 @@
-# 🧮 Walmart Sales Forecasting Web App using Holt-Winters
+# 🧮 Walmart Sales Forecasting using Random Forest
 
-Forecast weekly sales using the Holt-Winters Exponential Smoothing model. This app allows users to interactively input forecasting parameters and view realistic, non-differenced sales predictions.
+Forecast weekly sales using the Random Forest. s.
 
 📁 **GitHub Profile**: [@abhishek1397](https://github.com/abhishek1397)
 
@@ -16,9 +16,4 @@ Forecast weekly sales using the Holt-Winters Exponential Smoothing model. This a
 
 ---
 
-| **Forecast Output**                         |
-|-----------------------------------------|
-| ![Streamlit app](https://github.com/user-attachments/assets/e6654a78-23ca-49eb-94e6-c46d21cbc941)       |
-
----
 
